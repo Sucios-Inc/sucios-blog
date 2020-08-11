@@ -15,7 +15,6 @@
 </svelte:head>
 
 <template>
-	<Posts />
 	<section class="col s12 m9 19">
 		<figure>
 			<img src="" alt="">

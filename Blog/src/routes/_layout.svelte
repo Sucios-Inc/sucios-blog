@@ -7,6 +7,7 @@
 <Nav {segment} />
 
 <main class="row col s12 mx-0 px-0">
+	<Posts />
 	<slot />
 </main>
 
