@@ -1,0 +1,10 @@
+:root{
+}
+
+body{
+	 @extend .teal, .darken-4;
+}
+
+nav.l-nav{
+	@extend .teal, .accent-4;
+}
