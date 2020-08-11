@@ -1,10 +1,27 @@
 :root{
 }
 
+@import "utils/_mp";
+
 body{
 	 @extend .teal, .darken-4;
 }
 
+i{
+	color: #c0c0c0;
+}
+hr{
+	border-color: #c0c0c066
+}
+
 nav.l-nav{
 	@extend .teal, .accent-4;
+}
+.row{
+	@extend .mb-0;
+}
+
+//general
+.l-flex{
+	display: flex;
 }

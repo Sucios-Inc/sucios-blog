@@ -16,13 +16,14 @@
 
 <template>
 	<Posts />
-	<section class="col s9">
+	<section class="col s12 m9 19">
 		<figure>
 			<img src="" alt="">
 			<figcaption></figcaption>
 		</figure>
-		<article></article>
-		<footer></footer>
+		<h3>Some new post</h3>
+		<article>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium non, et cupiditate cum, iure ipsam facere dignissimos totam nam vitae, tempore eaque reprehenderit provident architecto deleniti facilis minima libero maxime. </article>
+		<footer><i>date</i></footer>
 	</section>
 </template>
 

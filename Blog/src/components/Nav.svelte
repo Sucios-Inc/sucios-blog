@@ -2,7 +2,7 @@
 	export let segment
 </script>
 
-<nav class="l-nav">
+<nav class="l-nav col s12">
 	<ul>
 		<li>
 			<a class={segment === undefined ? 'selected' : ''} href=".">home</a>

@@ -6,7 +6,7 @@
 
 <Nav {segment} />
 
-<main class="row">
+<main class="row col s12 mx-0 px-0">
 	<slot />
 </main>
 
@@ -14,10 +14,7 @@
 	@import 'styles/general';
 	@import 'styles/materialize/sass/materialize';
 	main {
-		position: relative;
-		background-color: white;
-		padding: 2em;
-		margin: 0 auto;
-		box-sizing: border-box;
+		/*padding: 2em;*/
+		color: white;
 	}
 </style>
